@@ -1,0 +1,37 @@
+{
+  "name": "WhatsMedaDuplicated",
+  "version": "1.3.6",
+  "description": "WhatsMeda project - a Whatsapp userbot helping to improve your Whatsapp experience.",
+  "main": "./WhatsMedaDuplicated/bot.js",
+  "scripts": {
+    "start": "supervisor -s bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harddecode/WhatsMedaDuplicated.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "ai",
+    "meda",
+    "api",
+    "unlimited",
+    "medadev",
+    "machine learning",
+    "automatic",
+    "whatsapp web",
+    "whatsapp api",
+    "WhatsMeda"
+  ],
+  "author": "HardDecode / Pekmez AB",
+  "developer": "HardDecode",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/harddecode/WhatsMedaDuplicated/issues"
+  },
+  "homepage": "https://github.com/harddecode/WhatsMedaDuplicated#readme",
+  "dependencies": {
+    "whatsmeda-npm": "^1.3.0"
+  }
+}
