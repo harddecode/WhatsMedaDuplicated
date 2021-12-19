@@ -32,6 +32,6 @@
   },
   "homepage": "https://github.com/harddecode/WhatsMedaDuplicated#readme",
   "dependencies": {
-    "whatsmeda-npm": "^1.3.0"
+    "whatsmeda-npm": "git+https://github.com/harddecode/whatsmeda-npm.git"
   }
 }
